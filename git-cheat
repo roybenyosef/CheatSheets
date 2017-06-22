@@ -1,0 +1,4 @@
+- git clone <url> - clone a remote repsitory
+- git status - show diffs of pending changes
+- git a - add files incrementally before commiting ?
+- git commit - commit added files to repo
